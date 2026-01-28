@@ -3,7 +3,8 @@
     "configMode": "LOCAL",
     "configExternalURL": "",
     "projectToken": "",
-    "baseBranches": []
+    "baseBranches": [],
+    "enableReachability": true
   },
   "scanSettingsSAST": {
     "enableScan": true,
