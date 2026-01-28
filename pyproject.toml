@@ -36,7 +36,7 @@ dependencies = [
     "typing-extensions>=4.9.0",
     "typing-inspection>=0.4.1",
     "recurly==2.2.0",
-    "slixmpp==1.4.1"
+    "slixmpp==1.8.3"
 ]
 
 [project.optional-dependencies]
